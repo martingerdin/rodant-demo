@@ -1,27 +1,27 @@
 {
   "files": {
-    "static/js/0.4b691af5.chunk.js": "/rodant-demo/static/js/0.4b691af5.chunk.js",
-    "static/js/0.4b691af5.chunk.js.map": "/rodant-demo/static/js/0.4b691af5.chunk.js.map",
-    "main.css": "/rodant-demo/static/css/main.d2d868ee.chunk.css",
-    "main.js": "/rodant-demo/static/js/main.b1cb1327.chunk.js",
-    "main.js.map": "/rodant-demo/static/js/main.b1cb1327.chunk.js.map",
-    "runtime-main.js": "/rodant-demo/static/js/runtime-main.864f8604.js",
-    "runtime-main.js.map": "/rodant-demo/static/js/runtime-main.864f8604.js.map",
-    "static/css/3.d0123ed2.chunk.css": "/rodant-demo/static/css/3.d0123ed2.chunk.css",
-    "static/js/3.feace261.chunk.js": "/rodant-demo/static/js/3.feace261.chunk.js",
-    "static/js/3.feace261.chunk.js.map": "/rodant-demo/static/js/3.feace261.chunk.js.map",
-    "index.html": "/rodant-demo/index.html",
-    "precache-manifest.13bb93c0842d8da282ba2040677851f9.js": "/rodant-demo/precache-manifest.13bb93c0842d8da282ba2040677851f9.js",
-    "service-worker.js": "/rodant-demo/service-worker.js",
-    "static/css/3.d0123ed2.chunk.css.map": "/rodant-demo/static/css/3.d0123ed2.chunk.css.map",
-    "static/css/main.d2d868ee.chunk.css.map": "/rodant-demo/static/css/main.d2d868ee.chunk.css.map",
-    "static/media/font-awesome.min.css": "/rodant-demo/static/media/fontawesome-webfont.fee66e71.woff"
+    "static/js/0.4b691af5.chunk.js": "../rodant-demo/static/js/0.4b691af5.chunk.js",
+    "static/js/0.4b691af5.chunk.js.map": "../rodant-demo/static/js/0.4b691af5.chunk.js.map",
+    "main.css": "../rodant-demo/static/css/main.d2d868ee.chunk.css",
+    "main.js": "../rodant-demo/static/js/main.dc3058e6.chunk.js",
+    "main.js.map": "../rodant-demo/static/js/main.dc3058e6.chunk.js.map",
+    "runtime-main.js": "../rodant-demo/static/js/runtime-main.eeb97671.js",
+    "runtime-main.js.map": "../rodant-demo/static/js/runtime-main.eeb97671.js.map",
+    "static/css/3.619f2ad9.chunk.css": "../rodant-demo/static/css/3.619f2ad9.chunk.css",
+    "static/js/3.455f5fd9.chunk.js": "../rodant-demo/static/js/3.455f5fd9.chunk.js",
+    "static/js/3.455f5fd9.chunk.js.map": "../rodant-demo/static/js/3.455f5fd9.chunk.js.map",
+    "index.html": "../rodant-demo/index.html",
+    "precache-manifest.179c72f51692314a529acaf64914ed6f.js": "../rodant-demo/precache-manifest.179c72f51692314a529acaf64914ed6f.js",
+    "service-worker.js": "../rodant-demo/service-worker.js",
+    "static/css/3.619f2ad9.chunk.css.map": "../rodant-demo/static/css/3.619f2ad9.chunk.css.map",
+    "static/css/main.d2d868ee.chunk.css.map": "../rodant-demo/static/css/main.d2d868ee.chunk.css.map",
+    "static/media/font-awesome.min.css": "../rodant-demo/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.864f8604.js",
-    "static/css/3.d0123ed2.chunk.css",
-    "static/js/3.feace261.chunk.js",
+    "static/js/runtime-main.eeb97671.js",
+    "static/css/3.619f2ad9.chunk.css",
+    "static/js/3.455f5fd9.chunk.js",
     "static/css/main.d2d868ee.chunk.css",
-    "static/js/main.b1cb1327.chunk.js"
+    "static/js/main.dc3058e6.chunk.js"
   ]
 }
